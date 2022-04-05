@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/power-bi-demo/static/css/main.073c9b0a.css",
-    "main.js": "/power-bi-demo/static/js/main.e39cd44c.js",
+    "main.js": "/power-bi-demo/static/js/main.c1db8ff0.js",
     "static/js/787.f38eac09.chunk.js": "/power-bi-demo/static/js/787.f38eac09.chunk.js",
     "static/media/logo.svg": "/power-bi-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/power-bi-demo/index.html",
     "main.073c9b0a.css.map": "/power-bi-demo/static/css/main.073c9b0a.css.map",
-    "main.e39cd44c.js.map": "/power-bi-demo/static/js/main.e39cd44c.js.map",
+    "main.c1db8ff0.js.map": "/power-bi-demo/static/js/main.c1db8ff0.js.map",
     "787.f38eac09.chunk.js.map": "/power-bi-demo/static/js/787.f38eac09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e39cd44c.js"
+    "static/js/main.c1db8ff0.js"
   ]
 }
